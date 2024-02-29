@@ -1,6 +1,6 @@
 ### Olá, eu sou o Samuel! 🤓
 
-- 🔭 Trabalhando atualmente com Desenvolvimento Back-End | .NET
+- 🔭 Trabalhando atualmente como Engenheiro de Software .NET
 - 🌱 Estudando mais sobre Arquitetura de Software e aprendendo Python.
 - ✉️ Contato: samuelhplt@gmail.com
 - ⚡ Sou Pai, e nas horas vagas trabalho como Software Engineer Back-End.
