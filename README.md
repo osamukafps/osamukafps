@@ -1,9 +1,8 @@
 ### Olá, eu sou o Samuel! 🤓
 
-- 🔭 Trabalhando atualmente como Engenheiro de Software .NET
-- 🌱 Estudando mais sobre Arquitetura de Software e aprendendo Python.
-- ✉️ Contato: samuelhplt@gmail.com
 - ⚡ Sou Pai, e nas horas vagas trabalho como Software Engineer Back-End.
+- 🌱 Estudando mais sobre Arquitetura de Software.
+- ✉️ Contato: samuelhplt@gmail.com
 
 <div>
 <a href="https://github.com/osamukafps">
